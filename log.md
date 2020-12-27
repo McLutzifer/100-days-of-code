@@ -6,7 +6,7 @@
 
 **Thoughts:** Finally desided to start the 100 days of code challenge and finish Harvard's CS50 course. Since I still don't know where to start I'm going to finish CS50's Tracks and the final project.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [CS50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
