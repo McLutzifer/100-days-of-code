@@ -4,7 +4,7 @@
 
 **Today's Progress**: CS50, week 8, Web Track. Starting over with the Flask Video since it's been a while
 
-**Thoughts:** Finally desided to start the 100 days of code challenge and finish Harvard's CS50 course. Since I still don't know where to start I'm going to finish CS50's Tracks and the final project. Meanwhile using this fork to learn git/GitHub -> goal is to have a commit at an open spurce project by day 100.
+**Thoughts:** Finally decided to start the 100 days of code challenge and finish Harvard's CS50 course. Since I still don't know where to start I'm going to finish CS50's Tracks and the final project. Meanwhile using this fork to learn git/GitHub -> goal is to have a commit at an open source project by day 100.
 
 **Link to work:** [CS50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 
