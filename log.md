@@ -2,7 +2,7 @@
 
 ### Day 1: December 27, 2020 
 
-**Today's Progress**: CS50, week 8, Web Track, Flask.
+**Today's Progress**: CS50, week 8, Web Track. Starting over with the Flask Video since it's been a while
 
 **Thoughts:** Finally desided to start the 100 days of code challenge and finish Harvard's CS50 course. Since I still don't know where to start I'm going to finish CS50's Tracks and the final project.
 
