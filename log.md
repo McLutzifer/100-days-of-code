@@ -8,6 +8,14 @@
 
 **Link to work:** [CS50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 
+### Day 2: December 28, 2020 
+
+**Today's Progress**: Free Code Camp | Basic Javascript from 70/111 to 88/111
+
+**Thoughts:** Decided to finish ALL my open courses. Worked on JavaScript Algorithms and Data Structures Certification today.
+
+**Link to work:** [Free Code Camp](https://www.freecodecamp.org/learn)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
