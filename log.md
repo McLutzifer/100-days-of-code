@@ -12,7 +12,7 @@
 
 **Today's Progress**: Free Code Camp | Basic Javascript from 70/111 to 88/111
 
-**Thoughts:** Decided to finish ALL my open courses. Worked on JavaScript Algorithms and Data Structures Certification today.
+**Thoughts:** Decided to finish ALL my open courses. Worked on JavaScript Algorithms and Data Structures Certification today. Still searching for a "real" project for this challenge.
 
 **Link to work:** [Free Code Camp](https://www.freecodecamp.org/learn)
 
