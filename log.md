@@ -16,6 +16,14 @@
 
 **Link to work:** [Free Code Camp](https://www.freecodecamp.org/learn)
 
+### Day 3: December 29, 2020 
+
+**Today's Progress**: finished Flask and Database Videos from CS50. Started to build Finance-Project
+
+**Thoughts:** Noticed, that I forgot a lot about SQL but finally somewhat got a grasp of Flask
+
+**Link to work:** [CS50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
