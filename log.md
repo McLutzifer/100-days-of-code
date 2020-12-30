@@ -24,8 +24,7 @@
 
 **Link to work:** [CS50 Web Track](https://cs50.harvard.edu/x/2020/tracks/web/)
 
-
-### Day 3: December 29, 2020 
+### Day 4: December 30, 2020 
 
 **Today's Progress**: continued 'Learning GitHub' Course on LinkedIn Learning. Also started the 'definitive guide to pointers in C and C++' by freeCodeCamp.
 **Thoughts:** Did not find the time to continue on CS50, so I tried to finish the GitHub Course. Did not make it to the end though.
