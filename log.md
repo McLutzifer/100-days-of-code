@@ -30,7 +30,7 @@
 **Thoughts:** Did not find the time to continue on CS50, so I tried to finish the GitHub Course. Did not make it to the end though.
 
 **Link to work:** [Pointers in C / C++](https://www.youtube.com/watch?v=zuegQmMdy8M&feature=youtu.be)
-[Learning GitHub (LinkedIn)]https://www.linkedin.com/feed/update/urn:li:ugcPost:6750119681178288128/
+**Link to work:** [Learning GitHUb (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:ugcPost:6750119681178288128/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
