@@ -32,13 +32,15 @@
 **Link to work:** [Pointers in C / C++](https://www.youtube.com/watch?v=zuegQmMdy8M&feature=youtu.be)
 **Link to work:** [Learning GitHUb (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:ugcPost:6750119681178288128/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 5: December 31, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Getting started with SQL
+**Thoughts:** Noticed that I really lack in SQL so I started 'practical SQL' by nostarch press
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 6: January 1, 2021 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: SQL creating and populating tables. Simple queries.
+**Thoughts:** Making good progress with SQL but in SQLite since I can't bring pgAdmin to work on Manjaro (and don't want to use postgres in Terminal)
+
 
 
