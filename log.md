@@ -42,5 +42,37 @@
 **Today's Progress**: SQL creating and populating tables. Simple queries.
 **Thoughts:** Making good progress with SQL but in SQLite since I can't bring pgAdmin to work on Manjaro (and don't want to use postgres in Terminal)
 
+### Day 7: January 2, 2021 
 
+**Today's Progress**: 
+**Thoughts:** 
 
+### Day 8: January 3, 2021 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 9: January 4, 2021 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 10: January 5, 2021 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 11: January 6, 2021 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 12: January 7, 2021 
+
+**Today's Progress**: 
+**Thoughts:** 
+
+### Day 13: January 8, 2021 
+
+**Today's Progress**:
+**Thoughts:** 
